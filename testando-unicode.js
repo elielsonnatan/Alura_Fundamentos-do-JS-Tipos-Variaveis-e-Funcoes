@@ -6,4 +6,4 @@ const hiragana = '\u3041'
 console.log(cifrao)
 console.log(aMaiusculo)
 console.log(tique)
-console.log(hiragana)
+console.log(hiragana) 

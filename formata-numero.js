@@ -8,7 +8,7 @@ function GanhoPorHora1(salario, horasTrabalhadasNoMes) {
 
 const salarioHora = GanhoPorHora1(1355, 22);
 
-console.log("Numero sem formatação: " + salarioHora);
+console.log("Numero sem formatação: " + salarioHora); 
 
 // Número formatado usando Math.round()
 function GanhoPorHora2(salario, horasTrabalhadasNoMes) {

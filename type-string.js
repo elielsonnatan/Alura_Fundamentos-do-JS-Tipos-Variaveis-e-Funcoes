@@ -9,6 +9,6 @@ const cidade1 = "RECife";
 const cidade2 = "João Pessoa";
 
 console.log(cidade1.toLowerCase());
-console.log(cidade1.toUpperCase());
+console.log(cidade1.toUpperCase()); 
 
 console.log('A palavra "João Pessoa" possui: ' + cidade2.length + ' caracteres.')
